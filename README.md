@@ -2,8 +2,9 @@
 
   <p>
     <strong>Live URL for our chatbot:</strong>
-    <a href="https://iiti-bot.vercel.app" target="_blank">https://iiti-bot.vercel.app</a><br>
-    <em>Note: The chatbot may take 6–8 minutes to generate responses if the backend or docstore server (deployed on Render) is in a cold start state.</em>
+    <a href="https://iit-indore-bot.vercel.app/" target="_blank">https://iit-indore-bot.vercel.app</a><br>
+    <em>WARNING ⚠️: The chatbot may take 8-10 minutes to generate responses if the backend server or docstore server (deployed on Render) is in a cold start state.
+    It may also fail to respond due to "Pathway effect" which states that pathway can crash anytime without any changes in the previously working code.</em>
   </p>
 
   <h2>📌 Introduction</h2>
