@@ -4,7 +4,7 @@
     <strong>Live URL for our chatbot:</strong>
     <a href="https://iit-indore-bot.vercel.app/" target="_blank">https://iit-indore-bot.vercel.app</a><br>
     <em>WARNING ⚠️: The chatbot may take 8-10 minutes to generate responses if the backend server or docstore server (deployed on Render) is in a cold start state.
-    It may also fail to respond due to "Pathway effect" which states that pathway can crash anytime without any changes in the previously working code.</em>
+    It may also fail to respond due to "Pathway effect" which states that pathway can crash anytime without any changes in the previously working code. It is advisable to run the project locally.</em>
   </p>
 
   <h2>📌 Introduction</h2>
@@ -40,10 +40,10 @@
 
   <h2>🎥 Demo Video</h2>
   <p>
-    Watch the demo: <a href="https://drive.google.com/your-demo-video-link" target="_blank">Google Drive - Demo Video</a>
+    Watch the demo: <a href="https://drive.google.com/file/d/1sq_5xNlyMPAcZA5TVHaSqJzHbvmxn3AS/view?usp=drive_link" target="_blank">Google Drive - Demo Video</a>
   </p>
 
   <h2>📄 Final Report</h2>
   <p>
-    Read the full report: <a href="https://drive.google.com/your-report-link" target="_blank">Google Drive - Project Report</a>
+    Read the full report: <a href="https://drive.google.com/file/d/17Lvx-pCxqvIF7HQvkhPuEuvZC1ZVoEdx/view?usp=drive_link" target="_blank">Google Drive - Project Report</a>
   </p>
