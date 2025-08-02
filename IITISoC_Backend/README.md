@@ -15,7 +15,7 @@ IITISoC_Backend/
 
 <h2>🚀 Ways to Run the Backend Server Locally</h2>
 
-<h3>📌 Method 1: Using Virtual Environment (venv)</h3>
+<h3>📌 Method 1: Using Virtual Environment (venv) , This method won't work in windows.</h3>
 <ol>
   <li>Navigate to the folder:</li>
   <pre><code>cd IITISoC_Backend/pathway_agentic_backend</code></pre>
