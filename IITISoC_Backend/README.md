@@ -23,7 +23,7 @@ IITISoC_Backend/
   <li>Create and activate a virtual environment:</li>
   <pre><code>
 python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate    
 </code></pre>
 
   <li>Install dependencies:</li>
