@@ -14,7 +14,7 @@ IITISOC_DocStore/
 
 <h2>🚀 Ways to Run the Document Store Locally</h2>
 
-<h3>📌 Method 1: Using Virtual Environment (venv)</h3>
+<h3>📌 Method 1: Using Virtual Environment (venv) , This method won't work on windows. </h3>
 <ol>
   <li>Assuming you are in the repository root in the terminal, navigate to the folder:</li>
   <pre><code>cd IITISOC_DocStore/pathway_docstore</code></pre>
@@ -22,7 +22,7 @@ IITISOC_DocStore/
   <li>Create and activate a virtual environment:</li>
   <pre><code>
 python3 -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate    
 </code></pre>
 
   <li>Install dependencies:</li>
